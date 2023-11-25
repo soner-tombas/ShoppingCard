@@ -108,7 +108,6 @@ function removeFromLocalStorage() {
     //     console.log(element.indexOf(urun))
     // })
 
-    // console.log(urunler.indexOf(urun))
 
 }
 
